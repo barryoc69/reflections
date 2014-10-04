@@ -30,4 +30,4 @@ You can always checkout a previous commit to find out when it last worked and th
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    Writing a small application, adding functionality incrementally
