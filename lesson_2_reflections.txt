@@ -6,3 +6,6 @@ Repository contains all commits of files added to staging area, working director
 
 How can you use the staging area to make sure you have one commit per logical change?
 	Add only the files that are related to that change to the staging area before committing
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Experimental features, localisation
