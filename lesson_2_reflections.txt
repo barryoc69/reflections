@@ -12,3 +12,7 @@ Experimental features, localisation
 
 How do the diagrams help you visualize the branch structure?
 Easy to see how the branches are elated and at what commit they branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+They form a new master branch merging all of the commits of the two branches in sequential order. You can access any of the branch commits from the merged master.
+
