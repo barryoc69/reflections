@@ -1,3 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
   Remote repo is fault-tolerant and allows for collaboration
-  
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  There may be multiple changes in the remote repository if other collaborators are working on it and you are only interested in the changes you are making
+
